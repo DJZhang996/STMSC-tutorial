@@ -1,7 +1,8 @@
 Welcome to STMSC's documentation!
 ===================================
 
-**STMSC**
+A novel multi-slice framework for precision 3D spatial domain reconstruction and disease pathology analysis
+=====================================================================================================================================================
 
 .. toctree::
    :maxdepth: 1
@@ -11,15 +12,6 @@ Welcome to STMSC's documentation!
 
 .. image:: ../Figures/STMSC.png
    :width: 1400
-
-
-
-Welcome to STMSC's documentation!
-===================================
-
-
-A novel multi-slice framework for precision 3D spatial domain reconstruction and disease pathology analysis
-=====================================================================================================================================================
 
 
 Overview
