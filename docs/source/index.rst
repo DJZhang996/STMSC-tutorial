@@ -21,11 +21,6 @@ Welcome to STMSC's documentation!
 A novel multi-slice framework for precision 3D spatial domain reconstruction and disease pathology analysis
 =====================================================================================================================================================
 
-.. toctree::
-   :maxdepth: 1
-   
-   test_pipeline
-
 
 Overview
 ========
