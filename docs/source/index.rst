@@ -8,7 +8,7 @@ A novel multi-slice framework for precision 3D spatial domain reconstruction and
    :maxdepth: 1
    
    Installation
-   Tutorial 1_10X Visium
+   Tutorial 1_Adult_mouse_brain_dataset
 
 .. image:: ../Figures/STMSC.png
    :width: 1400
