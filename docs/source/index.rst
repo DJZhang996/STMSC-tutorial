@@ -6,6 +6,7 @@ A novel multi-slice framework for precision 3D spatial domain reconstruction and
 
 .. toctree::
    :maxdepth: 1
+
    Installation
    Tutorial_STMSC
 
